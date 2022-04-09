@@ -63,7 +63,4 @@
 <p align="center"><a href="https://alicangunduz.work/">You can visit my website for more details and communication.</a></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alicangunduz&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
-<hr>
-
-[![Spotify](https://novatorem2-alpha.vercel.app/api/spotify)](https://open.spotify.com/user/c51lwkgdu29k28g1x0387srka?si=c250973bcb87413a)
 
